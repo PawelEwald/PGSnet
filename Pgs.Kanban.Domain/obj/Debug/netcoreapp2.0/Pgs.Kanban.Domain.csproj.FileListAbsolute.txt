@@ -7,3 +7,12 @@ C:\Users\PawelEwald\pgskanban\PgsKanban_Backend\Pgs.Kanban\Pgs.Kanban.Domain\obj
 C:\Users\PawelEwald\pgskanban\PgsKanban_Backend\Pgs.Kanban\Pgs.Kanban.Domain\obj\Debug\netcoreapp2.0\Pgs.Kanban.Domain.AssemblyInfo.cs
 C:\Users\PawelEwald\pgskanban\PgsKanban_Backend\Pgs.Kanban\Pgs.Kanban.Domain\obj\Debug\netcoreapp2.0\Pgs.Kanban.Domain.dll
 C:\Users\PawelEwald\pgskanban\PgsKanban_Backend\Pgs.Kanban\Pgs.Kanban.Domain\obj\Debug\netcoreapp2.0\Pgs.Kanban.Domain.pdb
+C:\C_sharp\pgskanban\PgsKanban_Backend\Pgs.Kanban\Pgs.Kanban.Domain\bin\Debug\netcoreapp2.0\Pgs.Kanban.Domain.deps.json
+C:\C_sharp\pgskanban\PgsKanban_Backend\Pgs.Kanban\Pgs.Kanban.Domain\bin\Debug\netcoreapp2.0\Pgs.Kanban.Domain.dll
+C:\C_sharp\pgskanban\PgsKanban_Backend\Pgs.Kanban\Pgs.Kanban.Domain\bin\Debug\netcoreapp2.0\Pgs.Kanban.Domain.pdb
+C:\C_sharp\pgskanban\PgsKanban_Backend\Pgs.Kanban\Pgs.Kanban.Domain\obj\Debug\netcoreapp2.0\Pgs.Kanban.Domain.csprojResolveAssemblyReference.cache
+C:\C_sharp\pgskanban\PgsKanban_Backend\Pgs.Kanban\Pgs.Kanban.Domain\obj\Debug\netcoreapp2.0\Pgs.Kanban.Domain.csproj.CoreCompileInputs.cache
+C:\C_sharp\pgskanban\PgsKanban_Backend\Pgs.Kanban\Pgs.Kanban.Domain\obj\Debug\netcoreapp2.0\Pgs.Kanban.Domain.AssemblyInfoInputs.cache
+C:\C_sharp\pgskanban\PgsKanban_Backend\Pgs.Kanban\Pgs.Kanban.Domain\obj\Debug\netcoreapp2.0\Pgs.Kanban.Domain.AssemblyInfo.cs
+C:\C_sharp\pgskanban\PgsKanban_Backend\Pgs.Kanban\Pgs.Kanban.Domain\obj\Debug\netcoreapp2.0\Pgs.Kanban.Domain.dll
+C:\C_sharp\pgskanban\PgsKanban_Backend\Pgs.Kanban\Pgs.Kanban.Domain\obj\Debug\netcoreapp2.0\Pgs.Kanban.Domain.pdb

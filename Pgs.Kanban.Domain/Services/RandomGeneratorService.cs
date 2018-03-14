@@ -11,17 +11,15 @@ namespace Pgs.Kanban.Domain.Services
 
 
         private Random randomGenerator = new Random();
+
         public int GenerateRandomNumber()
         {
-
-
             var number = randomGenerator.Next();
             return number;
-
         }
+
         public int GenerateRandomNumber(int maxValue)
         {
-
             var number = randomGenerator.Next(maxValue);
             return number;
         }
@@ -35,6 +33,12 @@ namespace Pgs.Kanban.Domain.Services
         {
             magicNumber.Remove(number);
         }
+
+        public void DeleteNumber2(int number)
+        {
+            magicNumber.RemoveAt(number);
+        }
+
         public List<int> GetNumberList()
         {
             return magicNumber;

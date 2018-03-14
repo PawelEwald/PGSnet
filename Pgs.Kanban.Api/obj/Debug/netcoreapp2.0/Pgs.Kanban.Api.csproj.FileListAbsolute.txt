@@ -11,3 +11,17 @@ C:\Users\PawelEwald\pgskanban\PgsKanban_Backend\Pgs.Kanban\Pgs.Kanban.Api\obj\De
 C:\Users\PawelEwald\pgskanban\PgsKanban_Backend\Pgs.Kanban\Pgs.Kanban.Api\obj\Debug\netcoreapp2.0\Pgs.Kanban.Api.pdb
 C:\Users\PawelEwald\pgskanban\PgsKanban_Backend\Pgs.Kanban\Pgs.Kanban.Api\bin\Debug\netcoreapp2.0\Pgs.Kanban.Domain.dll
 C:\Users\PawelEwald\pgskanban\PgsKanban_Backend\Pgs.Kanban\Pgs.Kanban.Api\bin\Debug\netcoreapp2.0\Pgs.Kanban.Domain.pdb
+C:\C_sharp\pgskanban\PgsKanban_Backend\Pgs.Kanban\Pgs.Kanban.Api\bin\Debug\netcoreapp2.0\Pgs.Kanban.Api.deps.json
+C:\C_sharp\pgskanban\PgsKanban_Backend\Pgs.Kanban\Pgs.Kanban.Api\bin\Debug\netcoreapp2.0\Pgs.Kanban.Api.runtimeconfig.json
+C:\C_sharp\pgskanban\PgsKanban_Backend\Pgs.Kanban\Pgs.Kanban.Api\bin\Debug\netcoreapp2.0\Pgs.Kanban.Api.runtimeconfig.dev.json
+C:\C_sharp\pgskanban\PgsKanban_Backend\Pgs.Kanban\Pgs.Kanban.Api\bin\Debug\netcoreapp2.0\Pgs.Kanban.Api.dll
+C:\C_sharp\pgskanban\PgsKanban_Backend\Pgs.Kanban\Pgs.Kanban.Api\bin\Debug\netcoreapp2.0\Pgs.Kanban.Api.pdb
+C:\C_sharp\pgskanban\PgsKanban_Backend\Pgs.Kanban\Pgs.Kanban.Api\bin\Debug\netcoreapp2.0\Pgs.Kanban.Domain.dll
+C:\C_sharp\pgskanban\PgsKanban_Backend\Pgs.Kanban\Pgs.Kanban.Api\bin\Debug\netcoreapp2.0\Pgs.Kanban.Domain.pdb
+C:\C_sharp\pgskanban\PgsKanban_Backend\Pgs.Kanban\Pgs.Kanban.Api\obj\Debug\netcoreapp2.0\Pgs.Kanban.Api.csprojResolveAssemblyReference.cache
+C:\C_sharp\pgskanban\PgsKanban_Backend\Pgs.Kanban\Pgs.Kanban.Api\obj\Debug\netcoreapp2.0\Pgs.Kanban.Api.csproj.CoreCompileInputs.cache
+C:\C_sharp\pgskanban\PgsKanban_Backend\Pgs.Kanban\Pgs.Kanban.Api\obj\Debug\netcoreapp2.0\Pgs.Kanban.Api.AssemblyInfoInputs.cache
+C:\C_sharp\pgskanban\PgsKanban_Backend\Pgs.Kanban\Pgs.Kanban.Api\obj\Debug\netcoreapp2.0\Pgs.Kanban.Api.AssemblyInfo.cs
+C:\C_sharp\pgskanban\PgsKanban_Backend\Pgs.Kanban\Pgs.Kanban.Api\obj\Debug\netcoreapp2.0\Pgs.Kanban.Api.csproj.CopyComplete
+C:\C_sharp\pgskanban\PgsKanban_Backend\Pgs.Kanban\Pgs.Kanban.Api\obj\Debug\netcoreapp2.0\Pgs.Kanban.Api.dll
+C:\C_sharp\pgskanban\PgsKanban_Backend\Pgs.Kanban\Pgs.Kanban.Api\obj\Debug\netcoreapp2.0\Pgs.Kanban.Api.pdb
