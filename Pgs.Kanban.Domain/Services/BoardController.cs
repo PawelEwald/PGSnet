@@ -10,6 +10,7 @@ namespace Pgs.Kanban.Domain.Services
     {
         private readonly BoardService _boardService;
 
+
         public BoardController()
         {
             _boardService = new BoardService();

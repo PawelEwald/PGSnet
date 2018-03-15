@@ -1,0 +1,33 @@
+Po³¹czenie gita z komputerem poprzez wygenerowanie na kompie klucza i wklejenie go do gita na stronie www. 
+
+https://jdblischak.github.io/2014-09-18-chicago/novice/git/05-sshkeys.html
+
+---------------------------------------------------------------------------------
+
+http://designconcept.webdev20.pl/articles/podstawy-gita-i-githuba/
+
+pwd
+clear
+cd ..
+ls -l
+
+
+git config --list
+
+git init
+git status
+git add .
+git commit -m "pierwszy commit"
+
+
+git branch
+git branch nowa
+git checkout nowa
+
+git remote add OX git@github.com:PawelEwald/OX.git
+
+git push -u OX master 
+
+
+git remote -v
+git remote rm OX
